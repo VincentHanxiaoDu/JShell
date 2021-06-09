@@ -1,0 +1,9 @@
+Classname: Exit
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Exit the shell by setting Environment of the shell
+
+Collaborators:
+* None

@@ -1,0 +1,9 @@
+Classname: NodeAlreadyExistsException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when user tries to create a node that already exists
+
+Collaborators:
+* None

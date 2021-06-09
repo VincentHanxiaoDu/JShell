@@ -1,0 +1,14 @@
+Classname: CommandHandler
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Construct an instance of command determined by the arguments
+* Run the command
+* Determines input and output streams
+
+Collaborators:
+* Parser
+* Parameters
+* OutputIO
+* Command

@@ -1,0 +1,11 @@
+Classname: Shell
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Continuously asks for user input and runs the command entered.
+
+Collaborators:
+* ConsoleInputIO
+* Directory
+* Parser

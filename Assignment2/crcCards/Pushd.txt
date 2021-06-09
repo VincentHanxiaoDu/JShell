@@ -1,0 +1,10 @@
+Classname: Pushd
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Push current directory into directory stack, and cd into a new directory specified
+  by the argument.
+
+Collaborators:
+* Directory

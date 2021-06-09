@@ -1,0 +1,12 @@
+Classname: Traverse
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Iterates through every file in the filesystem starting at some start file
+
+Collaborators:
+* Stack
+* Directory
+* Node
+* Environment

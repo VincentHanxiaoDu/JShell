@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Echo with >> works with existing files
+    - Echo with > works with existing files
+    - Echo is able to parse arguments
+    - Restructured the program a little bit
+
+What do I plan to work in the next three days?
+    - Review the design, do more testing with the code.
+    - Make echo be able to create new files if none exists.
+
+Am I blocked on anything?
+    - Not really for this time :)

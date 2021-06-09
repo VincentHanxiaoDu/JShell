@@ -1,0 +1,10 @@
+Classname: SaveCommandBuilder
+Parent class: CommandBuilder
+Subclasses: None
+
+Responsibilities:
+* Builder class for commands for Save command
+* Sets and Returns the serialized object
+
+Collaborators:
+* IObjectSerializer

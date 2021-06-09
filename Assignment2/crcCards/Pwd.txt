@@ -1,0 +1,9 @@
+Classname: Pwd
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Shows current working directory path.
+
+Collaborators:
+* None

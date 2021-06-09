@@ -1,0 +1,9 @@
+Classname: Popd
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Pop one directory off the directory stack, and cd into that directory.
+
+Collaborators:
+* Directory

@@ -1,0 +1,9 @@
+Classname: Echo
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Prints input string onto screen, overwrite a file or append a file.
+
+Collaborators:
+* None

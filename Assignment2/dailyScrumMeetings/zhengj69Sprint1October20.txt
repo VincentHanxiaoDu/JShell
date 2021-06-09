@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+    - collaborated with team to come up with basic structure of the program
+    - coded Command super class
+    - Shell can now keep prompting for user input
+
+What do I plan to work in the next three days?
+    - Add stacks into environments
+    - Make shell passively store command history into environment
+
+Am I blocked on anything?
+    - Need Stack and Directory

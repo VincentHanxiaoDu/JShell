@@ -1,0 +1,11 @@
+Classname: Directory
+Parent class: Node
+Subclasses: None
+
+Responsibilities:
+* Holds the directories and their children
+* Finds Nodes given relative or absolute paths
+
+Collaborators:
+* NodeAlreadyExistsException
+* NodeDoesNotExistException

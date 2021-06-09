@@ -1,0 +1,17 @@
+Classname: Command
+Parent class: None
+Subclasses: Shell, Man, Cat, Cd, Echo, Exit, History, Ls, Mkdir, Popd, Pushd, Pwd
+
+Responsibilities:
+* An abstract class for all shell commands
+* Manages input and output redirection
+
+Collaborators:
+* Environment
+* Parameters
+* IParameters
+* BufferBehavior
+* OutputIO
+* IOutputIO
+* Node
+* InvalidNumberOfArgumentsException

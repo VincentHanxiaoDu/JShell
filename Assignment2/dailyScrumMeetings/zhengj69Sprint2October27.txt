@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+    - Coded File class that represents a text file.
+    - Coded an IO class that can append to files.
+    - Coded an IO class that can override files.
+
+What do I plan to work in the next three days?
+    - Make echo with >> work.
+    - Make echo with > work.
+    - Echo should be able to parse arguments.
+
+Am I blocked on anything?
+    - Parser has a bug, need to fix before continuing.

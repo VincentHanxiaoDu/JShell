@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+    - Coded the Environment class, make sure it is passed to all commands
+    - Made sure environment contains a stack for command history
+    - Made shell passively push commands onto stack
+    - Shell now initializes a root directory (/)
+
+What do I plan to work in the next three days?
+    - Code the file class that represents a text file
+    - Create AppendFileOutputIO and OverwriteFileOutputIO class
+    - Make sure Echo can parse the arguments to make sure they are valid
+
+Am I blocked on anything?
+    - Need OutputIO parent class

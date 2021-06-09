@@ -1,0 +1,9 @@
+Classname: Get
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Retrieve the file at the URL and add it to the current working directory
+
+Collaborators:
+* File

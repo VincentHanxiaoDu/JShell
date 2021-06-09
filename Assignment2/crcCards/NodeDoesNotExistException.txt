@@ -1,0 +1,9 @@
+Classname: NodeDoesNotExistException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when a node trying to be accessed does not exist
+
+Collaborators:
+* None

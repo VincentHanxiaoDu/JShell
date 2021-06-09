@@ -1,0 +1,15 @@
+Classname: RemoteDataFetcher
+Parent class: DataFetcher
+Subclasses: None
+
+Responsibilities:
+* Gets data from a file given a URL
+* Gets file name from the URL and checks if it is valid
+* Returns a byte array containing the data
+
+Collaborators:
+* java.io.ByteArrayOutputStream
+* java.io.InputStream
+* java.net.URL
+* java.net.URLConnection
+* InvalidFileNameException

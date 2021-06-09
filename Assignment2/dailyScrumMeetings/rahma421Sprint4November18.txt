@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+	- completed traverse class
+	- created and implemented iterator for traverse class
+	- created method to traverse all nodes from root
+	- create method to traverse all nodes from specific directory
+
+What do I plan to work in the next three days? 
+	- add -R function to ls 
+	- make sure -R function completely works given multiple paths
+	- create complete JUnit test case for ls
+
+Am I blocked on anything?
+	- Nothing
+
+
+
+

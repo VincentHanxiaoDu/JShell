@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+  - Finished the cat command.
+  - Added the exception for exist command when it uses redirection.
+
+What do I plan to work in the next three days?
+  - Make sure the exception is been called when exist uses redirection.
+  - Implement tree command.
+
+Am I blocked on anything?
+  - I'm not blocked on anything at the moment.

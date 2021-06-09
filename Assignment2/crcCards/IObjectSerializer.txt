@@ -1,0 +1,9 @@
+Classname (Interface): IObjectSerializer
+Parent class: None
+Subclasses: BinaryObjectSerializer
+
+Responsibilities:
+* Interface for a class that serializes and deserializes an object to be saved on the computer
+
+Collaborators:
+* None

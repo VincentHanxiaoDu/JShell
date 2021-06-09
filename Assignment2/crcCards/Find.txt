@@ -1,0 +1,9 @@
+Classname: Find
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Find a node with specific type and name
+
+Collaborators:
+* None

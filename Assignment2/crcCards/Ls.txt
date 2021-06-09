@@ -1,0 +1,9 @@
+Classname: Ls
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* List content of directories.
+
+Collaborators:
+* Directory

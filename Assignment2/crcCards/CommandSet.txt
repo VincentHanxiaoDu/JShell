@@ -1,0 +1,30 @@
+Classname: CommandSet
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* A factory to create a command instance based on command name and parameters.
+
+Collaborators:
+* Parameters
+* IParameters
+* Command
+* Cat
+* Cd
+* Echo
+* Exit
+* History
+* Ls
+* Man
+* Mkdir
+* Popd
+* Pushd
+* Pwd
+* Mv
+* Get
+* Tree
+* Save
+* Load
+* Cp
+* Find
+* CommandNotFoundException

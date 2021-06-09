@@ -1,0 +1,8 @@
+Classname (Interface): DataFetcher
+Parent class: None
+Subclasses: RemoteDataFetcher
+
+Responsibilities:
+* Interface for getting file data and file name from a URL
+
+Collaborators:

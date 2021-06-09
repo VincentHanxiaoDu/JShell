@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Did comprehensive code testing
+  - Wrote unit tests for classes
+  - Made sure we have correct format
+
+What do I plan to work in the next three days?
+  - Nothing
+
+
+Am I blocked on anything?
+  - Nothing

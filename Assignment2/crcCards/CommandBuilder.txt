@@ -1,0 +1,11 @@
+Classname: CommandBuilder
+Parent class: None
+Subclasses: GetCommandBuilder, LoadCommandBuilder, SaveCommandBuilder
+
+Responsibilities:
+* Builder class for commands
+* Sets parameters and output stream
+
+Collaborators:
+* IOutputIO
+* IParameters

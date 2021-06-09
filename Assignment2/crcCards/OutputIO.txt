@@ -1,0 +1,10 @@
+Classname: OutputIO
+Parent class: None
+Subclasses: AppendFileOutputIO, ErrorOutputIO, OverwriteFileOutputIO, StdOutputIO
+
+Responsibilities:
+* Abstract class for all output streams
+* Exposes factory methods to construct streams
+
+Collaborators:
+* File

@@ -1,0 +1,9 @@
+Classname: ErrOutputIO
+Parent class: OutputIO
+Subclasses: None
+
+Responsibilities:
+* Write error messages to the screen
+
+Collaborators:
+* None

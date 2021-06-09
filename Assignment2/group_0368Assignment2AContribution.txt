@@ -1,0 +1,1100 @@
++++ASSIGNMENT2 TEAM MEMBER CONTRIBUTION+++
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    Assignment2/crcCards
+A    Assignment2/dailyScrumMeetings
+A    Assignment2/crcCards/StdOutputIO.txt
+A    Assignment2/crcCards/readMeForCrcCards.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint1October23.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint2October30.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint3November7.txt
+A    Assignment2/dailyScrumMeetings/rahma421Sprint2October27.txt
+A    Assignment2/dailyScrumMeetings/rahma421Sprint1October20.txt
+A    Assignment2/dailyScrumMeetings/rahma421Sprint2October30.txt
+A    Assignment2/dailyScrumMeetings/readMeDailyScrumMeetings.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint2October27.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint3November7.txt
+A    Assignment2/crcCards/AppendFileOutputIO.txt
+A    Assignment2/crcCards/Cat.txt
+A    Assignment2/crcCards/Cd.txt
+A    Assignment2/crcCards/Command.txt
+A    Assignment2/crcCards/CommandHandler.txt
+A    Assignment2/crcCards/CommandSet.txt
+A    Assignment2/productBacklog
+A    Assignment2/sprints
+A    Assignment2/src
+A    Assignment2/dailyScrumMeetings/zouchenhSprint2October30.txt
+A    Assignment2/productBacklog/readMeProductBacklog.txt
+A    Assignment2/sprints/readMeSprints.txt
+A    Assignment2/src/command
+A    Assignment2/dailyScrumMeetings/zouchenhSprint2October27.txt
+A    Assignment2/productBacklog/productBacklogFor2A.txt
+A    Assignment2/sprints/Sprint3Backlog.txt
+A    Assignment2/dailyScrumMeetings/rahma421Sprint3November7.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint1October23.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint3November3.txt
+A    Assignment2/dailyScrumMeetings/zouchenhSprint1October23.txt
+A    Assignment2/dailyScrumMeetings/zouchenhSprint3November7.txt
+A    Assignment2/sprints/Sprint2Backlog.txt
+A    Assignment2/crcCards/ConsoleInputIO.txt
+A    Assignment2/crcCards/Echo.txt
+A    Assignment2/crcCards/Environment.txt
+A    Assignment2/crcCards/ErrOutputIO.txt
+A    Assignment2/crcCards/Exit.txt
+A    Assignment2/crcCards/History.txt
+A    Assignment2/src/driver
+A    Assignment2/src/command/CommandHandler.java
+A    Assignment2/src/command/Command.java
+A    Assignment2/src/command/Exit.java
+A    Assignment2/src/environment
+A    Assignment2/src/input
+A    Assignment2/src/mock
+A    Assignment2/src/command/History.java
+A    Assignment2/src/command/Popd.java
+A    Assignment2/src/command/Cd.java
+A    Assignment2/src/command/Echo.java
+A    Assignment2/src/command/Man.java
+A    Assignment2/src/command/Pwd.java
+A    Assignment2/src/output
+A    Assignment2/crcCards/JShell.txt
+A    Assignment2/crcCards/Ls.txt
+A    Assignment2/crcCards/Man.txt
+A    Assignment2/crcCards/Mkdir.txt
+A    Assignment2/crcCards/OutputIO.txt
+A    Assignment2/crcCards/OverwriteFileOutputIO.txt
+A    Assignment2/src/driver/Directory.java
+A    Assignment2/src/environment/Environment.java
+A    Assignment2/src/test
+A    Assignment2/src/mock/MockErrorOutputIO.java
+A    Assignment2/src/output/OutputIO.java
+A    Assignment2/src/test/CdTest.java
+A    Assignment2/src/command/Mkdir.java
+A    Assignment2/src/command/Shell.java
+A    Assignment2/src/driver/Node.java
+A    Assignment2/src/mock/CommandTestMockParameters.java
+A    Assignment2/src/output/ErrorOutputIO.java
+A    Assignment2/src/test/CatTest.java
+A    Assignment2/src/driver/JShell.java
+A    Assignment2/src/input/ConsoleInputIO.java
+A    Assignment2/src/output/AppendFileOutputIO.java
+A    Assignment2/src/output/StdOutputIO.java
+A    Assignment2/src/test/DirectoryTest.java
+A    Assignment2/src/test/LsTest.java
+A    Assignment2/crcCards/Parameters.txt
+A    Assignment2/crcCards/Parser.txt
+A    Assignment2/crcCards/Popd.txt
+A    Assignment2/crcCards/Pushd.txt
+A    Assignment2/crcCards/Pwd.txt
+A    Assignment2/crcCards/Shell.txt
+A    Assignment2/src/util
+A    Assignment2/src/test/ParserTest.java
+A    Assignment2/src/test/StringUtilTest.java
+A    Assignment2/readMeAssignment2A.txt
+A    Assignment2/src/test/EnvironmentTest.java
+A    Assignment2/src/test/MkdirTest.java
+A    Assignment2/src/test/PopdTest.java
+A    Assignment2/src/util/Parameters.java
+A    Assignment2/crcCards/Stack.txt
+A    Assignment2/crcCards/StringUtil.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint1October20.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint2October27.txt
+A    Assignment2/dailyScrumMeetings/duhanxiaSprint3November3.txt
+A    Assignment2/dailyScrumMeetings/rahma421Sprint1October23.txt
+A    Assignment2/src/test/ConsoleInputIOTest.java
+A    Assignment2/src/test/FileTest.java
+A    Assignment2/src/test/ParametersTest.java
+A    Assignment2/src/test/StackTest.java
+A    Assignment2/src/util/StringUtil.java
+A    Assignment2/dailyScrumMeetings/rahma421Sprint3November3.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint1October20.txt
+A    Assignment2/dailyScrumMeetings/zhengj69Sprint2October30.txt
+A    Assignment2/dailyScrumMeetings/zouchenhSprint1October20.txt
+A    Assignment2/dailyScrumMeetings/zouchenhSprint3November3.txt
+A    Assignment2/sprints/Sprint1Backlog.txt
+A    Assignment2/src/command/Cat.java
+A    Assignment2/src/command/CommandSet.java
+A    Assignment2/src/command/Ls.java
+A    Assignment2/src/command/Pushd.java
+A    Assignment2/src/driver/File.java
+A    Assignment2/src/environment/Stack.java
+A    Assignment2/src/mock/MockOutputIO.java
+A    Assignment2/src/output/OverwriteFileOutputIO.java
+A    Assignment2/src/test/CommandTest.java
+A    Assignment2/src/test/ExitTest.java
+A    Assignment2/src/test/NodeTest.java
+A    Assignment2/src/test/PushdTest.java
+A    Assignment2/src/util/Parser.java
+Checked out revision 220.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r220 | rahma421@UTORONTO.CA | 2018-11-07 23:53:16 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Changed wording of last scrum meeting
+------------------------------------------------------------------------
+r219 | duhanxia@UTORONTO.CA | 2018-11-07 22:37:47 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Change Code Style
+------------------------------------------------------------------------
+r218 | duhanxia@UTORONTO.CA | 2018-11-07 22:32:55 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Changed code style
+------------------------------------------------------------------------
+r217 | zouchenh@UTORONTO.CA | 2018-11-07 22:27:57 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Adding my daily meeting for today.
+------------------------------------------------------------------------
+r216 | zhengj69@UTORONTO.CA | 2018-11-07 22:24:31 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix 80 char for more tests
+------------------------------------------------------------------------
+r215 | zhengj69@UTORONTO.CA | 2018-11-07 22:23:06 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix 80 char
+------------------------------------------------------------------------
+r214 | zhengj69@UTORONTO.CA | 2018-11-07 22:22:54 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix 80 char
+------------------------------------------------------------------------
+r213 | duhanxia@UTORONTO.CA | 2018-11-07 22:22:06 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixed a bug in MkdirTest
+------------------------------------------------------------------------
+r212 | zhengj69@UTORONTO.CA | 2018-11-07 22:20:02 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Add final scrum meeting
+------------------------------------------------------------------------
+r211 | duhanxia@UTORONTO.CA | 2018-11-07 22:17:08 -0500 (Wed, 07 Nov 2018) | 5 lines
+
+Sprint3
+Added MockErrorOutputIO
+Added CdTest
+Added PopdTest
+Added PushdTest
+------------------------------------------------------------------------
+r210 | zhengj69@UTORONTO.CA | 2018-11-07 22:16:34 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix 80 char limit
+------------------------------------------------------------------------
+r209 | zhengj69@UTORONTO.CA | 2018-11-07 22:14:42 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Formatted more files
+------------------------------------------------------------------------
+r208 | zhengj69@UTORONTO.CA | 2018-11-07 22:12:47 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix formatting
+------------------------------------------------------------------------
+r207 | rahma421@UTORONTO.CA | 2018-11-07 22:12:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added the final scrum meeting for the third sprint
+------------------------------------------------------------------------
+r206 | zhengj69@UTORONTO.CA | 2018-11-07 22:10:44 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Remove FileOutput CRC
+------------------------------------------------------------------------
+r205 | zhengj69@UTORONTO.CA | 2018-11-07 22:10:13 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Remove FileSystemTest
+------------------------------------------------------------------------
+r204 | zhengj69@UTORONTO.CA | 2018-11-07 22:08:06 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Add honour code
+------------------------------------------------------------------------
+r203 | zhengj69@UTORONTO.CA | 2018-11-07 22:06:44 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fix parameter test
+------------------------------------------------------------------------
+r202 | rahma421@UTORONTO.CA | 2018-11-07 22:06:38 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added more test cases for LsTest and added MkdirTest. Updated mkdir to print better error messages
+------------------------------------------------------------------------
+r201 | rahma421@UTORONTO.CA | 2018-11-07 21:39:08 -0500 (Wed, 07 Nov 2018) | 1 line
+
+added method to set error output stream
+------------------------------------------------------------------------
+r200 | rahma421@UTORONTO.CA | 2018-11-07 21:34:00 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added more test cases to LsTest. Changed Ls to print whole output at once instead of one at a time.
+------------------------------------------------------------------------
+r199 | rahma421@UTORONTO.CA | 2018-11-07 20:56:29 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Created File and Ls unittests, updated Ls to print output as a whole rather than 1 line at a time
+------------------------------------------------------------------------
+r198 | zhengj69@UTORONTO.CA | 2018-11-07 20:16:39 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Add test cases for exit
+------------------------------------------------------------------------
+r197 | zouchenh@UTORONTO.CA | 2018-11-07 19:28:46 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixing the error message wording typo.
+------------------------------------------------------------------------
+r196 | zouchenh@UTORONTO.CA | 2018-11-07 19:24:15 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixed the history 0 error.
+------------------------------------------------------------------------
+r195 | zhengj69@UTORONTO.CA | 2018-11-07 19:19:24 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Add test cases for Cat command
+------------------------------------------------------------------------
+r194 | zouchenh@UTORONTO.CA | 2018-11-07 19:12:13 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixing the history 0 case.
+------------------------------------------------------------------------
+r193 | zouchenh@UTORONTO.CA | 2018-11-07 18:58:09 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixing the error message for run method.
+------------------------------------------------------------------------
+r192 | zouchenh@UTORONTO.CA | 2018-11-07 18:43:18 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Fixed the bug in run method and updated the JavaDoc for printHistory method.
+------------------------------------------------------------------------
+r191 | rahma421@UTORONTO.CA | 2018-11-07 16:37:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Added junit test for Directory class and updated some javadoc
+------------------------------------------------------------------------
+r190 | rahma421@UTORONTO.CA | 2018-11-07 08:04:27 -0500 (Wed, 07 Nov 2018) | 1 line
+
+Updated more crc cards to be more accurate. Added some missing javadoc. Updated some error outputs so they wouldn't print twice.
+------------------------------------------------------------------------
+r189 | rahma421@UTORONTO.CA | 2018-11-06 22:33:23 -0500 (Tue, 06 Nov 2018) | 1 line
+
+Updated some CRC cards to more correctly reflect the collaborations as well as fixed some error messages so they don't print "error: commandname" twice. Fixed line lengths so they're less than 80
+------------------------------------------------------------------------
+r188 | rahma421@UTORONTO.CA | 2018-11-06 18:35:46 -0500 (Tue, 06 Nov 2018) | 1 line
+
+fixed cat and cd crc cards as they were swapped. Updated AppendFileOutputIO.txt as it collaborates with File.
+------------------------------------------------------------------------
+r187 | zhengj69@UTORONTO.CA | 2018-11-06 09:30:02 -0500 (Tue, 06 Nov 2018) | 1 line
+
+Finish off CRC cards
+------------------------------------------------------------------------
+r186 | zhengj69@UTORONTO.CA | 2018-11-05 22:18:32 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Disable IO redirection for all commands but Echo
+------------------------------------------------------------------------
+r185 | zhengj69@UTORONTO.CA | 2018-11-05 21:53:58 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add test cases for Command
+------------------------------------------------------------------------
+r184 | zhengj69@UTORONTO.CA | 2018-11-05 21:40:09 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add Parameters test coverage
+------------------------------------------------------------------------
+r183 | zhengj69@UTORONTO.CA | 2018-11-05 21:39:36 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add Parameters testing cases
+------------------------------------------------------------------------
+r182 | zhengj69@UTORONTO.CA | 2018-11-05 21:17:36 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Fix Boolean spelling
+------------------------------------------------------------------------
+r181 | zhengj69@UTORONTO.CA | 2018-11-05 21:17:12 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add tests for Node
+------------------------------------------------------------------------
+r180 | duhanxia@UTORONTO.CA | 2018-11-05 20:36:24 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Modified Shell so that it can print the path of current working directory
+------------------------------------------------------------------------
+r179 | duhanxia@UTORONTO.CA | 2018-11-05 20:23:08 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Modified Shell so that it can print the name of current working directory
+------------------------------------------------------------------------
+r178 | rahma421@UTORONTO.CA | 2018-11-05 18:02:48 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Fixed mkdir so that if it is called without any arguments it prints an appropriate error message
+------------------------------------------------------------------------
+r177 | rahma421@UTORONTO.CA | 2018-11-05 17:48:06 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Added javadoc to ls, mkdir, and parser. Cleaned up parser so it fits the limit of 30 lines of code per method
+------------------------------------------------------------------------
+r176 | zhengj69@UTORONTO.CA | 2018-11-05 15:54:31 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add CRC for StringUtil
+------------------------------------------------------------------------
+r175 | zhengj69@UTORONTO.CA | 2018-11-05 15:53:02 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add CRC for Parser
+------------------------------------------------------------------------
+r174 | zhengj69@UTORONTO.CA | 2018-11-05 15:50:51 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add CRC for Parameters
+------------------------------------------------------------------------
+r173 | zhengj69@UTORONTO.CA | 2018-11-05 15:42:49 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Fix ConsoleInputIO crc
+------------------------------------------------------------------------
+r172 | zhengj69@UTORONTO.CA | 2018-11-05 15:38:34 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Add all cards for ouput package
+------------------------------------------------------------------------
+r171 | zhengj69@UTORONTO.CA | 2018-11-05 15:38:15 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Remove useless cards
+------------------------------------------------------------------------
+r170 | zhengj69@UTORONTO.CA | 2018-11-05 15:17:04 -0500 (Mon, 05 Nov 2018) | 1 line
+
+Fix commands and history
+------------------------------------------------------------------------
+r169 | rahma421@UTORONTO.CA | 2018-11-04 11:58:08 -0500 (Sun, 04 Nov 2018) | 1 line
+
+Added name into honour code
+------------------------------------------------------------------------
+r168 | rahma421@UTORONTO.CA | 2018-11-03 22:59:57 -0400 (Sat, 03 Nov 2018) | 1 line
+
+updated scrum meeting with more completed tasks
+------------------------------------------------------------------------
+r167 | zouchenh@UTORONTO.CA | 2018-11-03 22:38:34 -0400 (Sat, 03 Nov 2018) | 1 line
+
+mistyped name
+------------------------------------------------------------------------
+r166 | zouchenh@UTORONTO.CA | 2018-11-03 22:37:33 -0400 (Sat, 03 Nov 2018) | 1 line
+
+add daily scrum
+------------------------------------------------------------------------
+r165 | zhengj69@UTORONTO.CA | 2018-11-03 22:34:29 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add daily scrum meetings
+------------------------------------------------------------------------
+r164 | zhengj69@UTORONTO.CA | 2018-11-03 22:31:16 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add coverage info
+------------------------------------------------------------------------
+r163 | zhengj69@UTORONTO.CA | 2018-11-03 22:28:15 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add Parser and ConsoleInputIO tests
+------------------------------------------------------------------------
+r162 | zhengj69@UTORONTO.CA | 2018-11-03 21:52:59 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add StringUtil test
+------------------------------------------------------------------------
+r161 | zhengj69@UTORONTO.CA | 2018-11-03 21:48:57 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add tests for Environment
+------------------------------------------------------------------------
+r160 | zhengj69@UTORONTO.CA | 2018-11-03 21:26:22 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Change assertThat to assertEquals
+------------------------------------------------------------------------
+r159 | zhengj69@UTORONTO.CA | 2018-11-03 21:22:59 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Add StackTest
+------------------------------------------------------------------------
+r158 | zhengj69@UTORONTO.CA | 2018-11-03 20:52:03 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Update stack to include getSize()
+------------------------------------------------------------------------
+r157 | rahma421@UTORONTO.CA | 2018-11-03 20:20:59 -0400 (Sat, 03 Nov 2018) | 1 line
+
+fixed another bug with mkdir, it returns an error when a user types mkdir /
+------------------------------------------------------------------------
+r156 | rahma421@UTORONTO.CA | 2018-11-03 19:47:40 -0400 (Sat, 03 Nov 2018) | 1 line
+
+added the scrum meeting for the current day
+------------------------------------------------------------------------
+r155 | rahma421@UTORONTO.CA | 2018-11-03 19:32:06 -0400 (Sat, 03 Nov 2018) | 1 line
+
+fixed the mkdir bug that wouldn't allow you to create a directory using the parameters dir1/dir2
+------------------------------------------------------------------------
+r154 | duhanxia@UTORONTO.CA | 2018-11-03 19:31:37 -0400 (Sat, 03 Nov 2018) | 1 line
+
+Sprint3Nov3
+------------------------------------------------------------------------
+r153 | zhengj69@UTORONTO.CA | 2018-11-02 11:07:24 -0400 (Fri, 02 Nov 2018) | 1 line
+
+Fix unable to cd into root
+------------------------------------------------------------------------
+r152 | duhanxia@UTORONTO.CA | 2018-11-02 01:16:47 -0400 (Fri, 02 Nov 2018) | 3 lines
+
+Fixed bugs in Exit, Man, Popd, Pushd
+Added doc for CommandHandler
+Modified CommandSet
+------------------------------------------------------------------------
+r151 | zouchenh@UTORONTO.CA | 2018-11-01 21:24:03 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Fixing the run method in History and Pwd class.
+------------------------------------------------------------------------
+r150 | zhengj69@UTORONTO.CA | 2018-11-01 14:26:30 -0400 (Thu, 01 Nov 2018) | 1 line
+
+fix popd
+------------------------------------------------------------------------
+r149 | zhengj69@UTORONTO.CA | 2018-11-01 14:20:22 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Update shell
+------------------------------------------------------------------------
+r148 | zhengj69@UTORONTO.CA | 2018-11-01 14:18:37 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formatted Pwd.java
+------------------------------------------------------------------------
+r147 | zhengj69@UTORONTO.CA | 2018-11-01 14:14:07 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formatted History.java
+------------------------------------------------------------------------
+r146 | rahma421@UTORONTO.CA | 2018-11-01 14:12:33 -0400 (Thu, 01 Nov 2018) | 1 line
+
+update Ls and mkdir to appropriately deal with errors
+------------------------------------------------------------------------
+r145 | zhengj69@UTORONTO.CA | 2018-11-01 14:12:08 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formatted Exit.java
+------------------------------------------------------------------------
+r144 | zhengj69@UTORONTO.CA | 2018-11-01 14:11:03 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formatted Echo.java
+------------------------------------------------------------------------
+r143 | zhengj69@UTORONTO.CA | 2018-11-01 14:08:14 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formatted Cd.java
+------------------------------------------------------------------------
+r142 | zhengj69@UTORONTO.CA | 2018-11-01 14:06:09 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Optimize Cd
+------------------------------------------------------------------------
+r141 | zhengj69@UTORONTO.CA | 2018-11-01 13:57:37 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Add StringUtil
+------------------------------------------------------------------------
+r140 | zouchenh@UTORONTO.CA | 2018-11-01 12:29:31 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Updating all getManual methods to match the format.
+------------------------------------------------------------------------
+r139 | zouchenh@UTORONTO.CA | 2018-11-01 12:12:09 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Formated some files to match format.
+------------------------------------------------------------------------
+r138 | zouchenh@UTORONTO.CA | 2018-11-01 12:08:16 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Fixing the run method in History class and adding the error size input checking with error messange.
+------------------------------------------------------------------------
+r137 | zouchenh@UTORONTO.CA | 2018-11-01 11:50:15 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Updating the run method for History class.
+------------------------------------------------------------------------
+r136 | zhengj69@UTORONTO.CA | 2018-11-01 11:45:20 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Change ls
+------------------------------------------------------------------------
+r135 | zhengj69@UTORONTO.CA | 2018-11-01 11:36:07 -0400 (Thu, 01 Nov 2018) | 1 line
+
+Echo can now create files
+------------------------------------------------------------------------
+r134 | rahma421@UTORONTO.CA | 2018-11-01 11:20:55 -0400 (Thu, 01 Nov 2018) | 1 line
+
+ls and mkdir now return appropriate errors when invalid directory names or file paths are given to them
+------------------------------------------------------------------------
+r133 | rahma421@UTORONTO.CA | 2018-10-31 17:17:01 -0400 (Wed, 31 Oct 2018) | 2 lines
+
+fixed a small bug in mkdir about creating directory at the root
+
+------------------------------------------------------------------------
+r132 | rahma421@UTORONTO.CA | 2018-10-31 16:58:25 -0400 (Wed, 31 Oct 2018) | 2 lines
+
+Done ls command, slightly modified mkdir command to place directories instead of nodes. Added a new method to Directory to return the subdirectories within it
+
+------------------------------------------------------------------------
+r131 | zhengj69@UTORONTO.CA | 2018-10-31 16:21:40 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Add concept of dangling file
+------------------------------------------------------------------------
+r130 | rahma421@UTORONTO.CA | 2018-10-31 16:03:39 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Fixed mkdir so it creates a directory not a node. working on ls
+------------------------------------------------------------------------
+r129 | zhengj69@UTORONTO.CA | 2018-10-31 16:02:00 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Handle output direction in a unified way
+------------------------------------------------------------------------
+r128 | rahma421@UTORONTO.CA | 2018-10-31 15:38:57 -0400 (Wed, 31 Oct 2018) | 1 line
+
+deleted old parser, new one is in util.java
+------------------------------------------------------------------------
+r127 | zhengj69@UTORONTO.CA | 2018-10-31 15:29:24 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Change Parser structure
+------------------------------------------------------------------------
+r126 | rahma421@UTORONTO.CA | 2018-10-31 14:53:25 -0400 (Wed, 31 Oct 2018) | 2 lines
+
+updated mkdir to reflect correct design
+
+------------------------------------------------------------------------
+r125 | zhengj69@UTORONTO.CA | 2018-10-31 14:49:25 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Change Environment to signleton
+------------------------------------------------------------------------
+r124 | rahma421@UTORONTO.CA | 2018-10-31 13:23:39 -0400 (Wed, 31 Oct 2018) | 2 lines
+
+Updated sprint 3 backlog to be more accurate
+
+------------------------------------------------------------------------
+r123 | zouchenh@UTORONTO.CA | 2018-10-31 11:19:01 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Updating the Sprint3Backlog.
+------------------------------------------------------------------------
+r122 | zhengj69@UTORONTO.CA | 2018-10-31 10:41:15 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Change product backlog
+------------------------------------------------------------------------
+r121 | zhengj69@UTORONTO.CA | 2018-10-31 10:27:04 -0400 (Wed, 31 Oct 2018) | 1 line
+
+Add sprint 3 backlog
+------------------------------------------------------------------------
+r120 | rahma421@UTORONTO.CA | 2018-10-30 23:21:51 -0400 (Tue, 30 Oct 2018) | 1 line
+
+fixed spacing
+------------------------------------------------------------------------
+r119 | rahma421@UTORONTO.CA | 2018-10-30 23:00:11 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Added the scrum meeting for october 30
+------------------------------------------------------------------------
+r118 | zouchenh@UTORONTO.CA | 2018-10-30 22:38:50 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Adding my daily scrum meeting text file for 30th.
+------------------------------------------------------------------------
+r117 | zhengj69@UTORONTO.CA | 2018-10-30 22:18:13 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Add daily standup
+------------------------------------------------------------------------
+r116 | duhanxia@UTORONTO.CA | 2018-10-30 21:49:17 -0400 (Tue, 30 Oct 2018) | 1 line
+
+Sprint Oct30
+------------------------------------------------------------------------
+r115 | duhanxia@UTORONTO.CA | 2018-10-29 19:11:01 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Fixed a bug in Parser
+------------------------------------------------------------------------
+r114 | duhanxia@UTORONTO.CA | 2018-10-29 19:07:16 -0400 (Mon, 29 Oct 2018) | 1 line
+
+fixed a bug in Parser
+------------------------------------------------------------------------
+r113 | zouchenh@UTORONTO.CA | 2018-10-29 19:05:42 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Added javadoc for write method in StdOutputIO class.
+------------------------------------------------------------------------
+r112 | zouchenh@UTORONTO.CA | 2018-10-29 19:02:40 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Added javadoc for run method in Cat, History, Man, and Pwd class.
+------------------------------------------------------------------------
+r111 | zouchenh@UTORONTO.CA | 2018-10-29 18:48:33 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Added all javadoc for all getManual methods in each classes.
+------------------------------------------------------------------------
+r110 | zouchenh@UTORONTO.CA | 2018-10-29 18:27:09 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Finished the run method for Cat class.
+------------------------------------------------------------------------
+r109 | rahma421@UTORONTO.CA | 2018-10-29 14:44:51 -0400 (Mon, 29 Oct 2018) | 1 line
+
+fixed yet another bug in the parser involving being given only a command
+------------------------------------------------------------------------
+r108 | duhanxia@UTORONTO.CA | 2018-10-29 14:11:03 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Modified Cd, CommandHandler, Parser, Popd and Pushd
+------------------------------------------------------------------------
+r107 | zhengj69@UTORONTO.CA | 2018-10-29 13:11:46 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Fix history command
+------------------------------------------------------------------------
+r106 | zhengj69@UTORONTO.CA | 2018-10-29 12:47:58 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Node.getPath() is now functional
+------------------------------------------------------------------------
+r105 | rahma421@UTORONTO.CA | 2018-10-29 12:41:15 -0400 (Mon, 29 Oct 2018) | 1 line
+
+fixed parser error where it would go into an infinite loop if a string started with a quote and had spaces in it but no second quote
+------------------------------------------------------------------------
+r104 | zhengj69@UTORONTO.CA | 2018-10-29 12:23:40 -0400 (Mon, 29 Oct 2018) | 1 line
+
+Add a new user story
+------------------------------------------------------------------------
+r103 | rahma421@UTORONTO.CA | 2018-10-29 01:43:10 -0400 (Mon, 29 Oct 2018) | 1 line
+
+fixed the off by 1 error in parser that wouldn't print the quotations around a phrase
+------------------------------------------------------------------------
+r102 | zhengj69@UTORONTO.CA | 2018-10-28 23:41:11 -0400 (Sun, 28 Oct 2018) | 1 line
+
+Add better manuals
+------------------------------------------------------------------------
+r101 | zhengj69@UTORONTO.CA | 2018-10-28 23:25:58 -0400 (Sun, 28 Oct 2018) | 1 line
+
+Echo command works
+------------------------------------------------------------------------
+r100 | zhengj69@UTORONTO.CA | 2018-10-28 22:55:10 -0400 (Sun, 28 Oct 2018) | 1 line
+
+Finish man command
+------------------------------------------------------------------------
+r99 | zouchenh@UTORONTO.CA | 2018-10-28 16:55:47 -0400 (Sun, 28 Oct 2018) | 1 line
+
+Adding my part of honor code in JShell.
+------------------------------------------------------------------------
+r98 | rahma421@UTORONTO.CA | 2018-10-28 15:29:46 -0400 (Sun, 28 Oct 2018) | 2 lines
+
+Fixed another bug in Parser. Off by 1 error in logical statements
+
+------------------------------------------------------------------------
+r97 | rahma421@UTORONTO.CA | 2018-10-28 15:05:26 -0400 (Sun, 28 Oct 2018) | 1 line
+
+Now the parser is really bug free.
+------------------------------------------------------------------------
+r96 | zouchenh@UTORONTO.CA | 2018-10-27 22:27:35 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Adding my dailyScrumMeeting for the 27th.
+------------------------------------------------------------------------
+r95 | duhanxia@UTORONTO.CA | 2018-10-27 21:29:51 -0400 (Sat, 27 Oct 2018) | 3 lines
+
+Added meeting report
+Finished Cd
+Changed documentation for Stack
+------------------------------------------------------------------------
+r94 | zouchenh@UTORONTO.CA | 2018-10-27 21:26:38 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Finish implementing the run method for Pwd class.
+------------------------------------------------------------------------
+r93 | zouchenh@UTORONTO.CA | 2018-10-27 21:14:02 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Finished the run method for History class.
+------------------------------------------------------------------------
+r92 | zhengj69@UTORONTO.CA | 2018-10-27 20:51:18 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Add daily scrum meeting
+------------------------------------------------------------------------
+r91 | rahma421@UTORONTO.CA | 2018-10-27 18:16:30 -0400 (Sat, 27 Oct 2018) | 2 lines
+
+updated formatting of scrum meeting
+
+------------------------------------------------------------------------
+r90 | zouchenh@UTORONTO.CA | 2018-10-27 17:44:36 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Updating the manual methods to instance methods. Finsihed run method in Man class.
+------------------------------------------------------------------------
+r89 | rahma421@UTORONTO.CA | 2018-10-27 16:56:46 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Added scrum meeting for today. Added early as I worked this morning and will be out of the house for the remainder of the night.
+------------------------------------------------------------------------
+r88 | rahma421@UTORONTO.CA | 2018-10-27 16:36:33 -0400 (Sat, 27 Oct 2018) | 1 line
+
+changed Node constructor to be public so MkDir can use it
+------------------------------------------------------------------------
+r87 | rahma421@UTORONTO.CA | 2018-10-27 15:51:41 -0400 (Sat, 27 Oct 2018) | 1 line
+
+Created the MkDir class, this class can now create a directory using absolute or relative paths. Can create a directory using multiple entries
+------------------------------------------------------------------------
+r86 | rahma421@UTORONTO.CA | 2018-10-27 14:54:58 -0400 (Sat, 27 Oct 2018) | 2 lines
+
+fixed bug in Parser
+
+------------------------------------------------------------------------
+r85 | zouchenh@UTORONTO.CA | 2018-10-26 21:53:03 -0400 (Fri, 26 Oct 2018) | 1 line
+
+Implemented the write method for StdOutputIO class.
+------------------------------------------------------------------------
+r84 | zouchenh@UTORONTO.CA | 2018-10-26 20:04:04 -0400 (Fri, 26 Oct 2018) | 1 line
+
+Changing all manual method to getManual method.
+------------------------------------------------------------------------
+r83 | zhengj69@UTORONTO.CA | 2018-10-26 13:04:52 -0400 (Fri, 26 Oct 2018) | 1 line
+
+Add ConsoleInputIO and change some crcCards
+------------------------------------------------------------------------
+r82 | zhengj69@UTORONTO.CA | 2018-10-26 12:43:58 -0400 (Fri, 26 Oct 2018) | 1 line
+
+Make Shell be able to call commands
+------------------------------------------------------------------------
+r81 | zhengj69@UTORONTO.CA | 2018-10-24 11:32:27 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Add a demo script
+------------------------------------------------------------------------
+r80 | zhengj69@UTORONTO.CA | 2018-10-24 11:22:11 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Add AppendFileOutputIO and OverwriteFileOutputIO
+------------------------------------------------------------------------
+r79 | zhengj69@UTORONTO.CA | 2018-10-24 11:13:16 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Add basic File class
+------------------------------------------------------------------------
+r78 | zhengj69@UTORONTO.CA | 2018-10-24 11:08:42 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Able to get nodes by path strings
+------------------------------------------------------------------------
+r77 | zhengj69@UTORONTO.CA | 2018-10-24 10:29:25 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Add Directory.getNodeByName(name: String) -> Node method.
+------------------------------------------------------------------------
+r76 | duhanxia@UTORONTO.CA | 2018-10-24 00:16:02 -0400 (Wed, 24 Oct 2018) | 1 line
+
+Rename
+------------------------------------------------------------------------
+r75 | zhengj69@UTORONTO.CA | 2018-10-23 22:27:59 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Add sprint 2 backlog
+------------------------------------------------------------------------
+r74 | zhengj69@UTORONTO.CA | 2018-10-23 22:21:13 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Add sprint1 2nd meeting log
+------------------------------------------------------------------------
+r73 | zouchenh@UTORONTO.CA | 2018-10-23 21:34:21 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Committing my daily scrum meeting summary for the 23rd.
+------------------------------------------------------------------------
+r72 | rahma421@UTORONTO.CA | 2018-10-23 21:28:39 -0400 (Tue, 23 Oct 2018) | 2 lines
+
+Fixed name of october 23 scrum
+
+------------------------------------------------------------------------
+r71 | duhanxia@UTORONTO.CA | 2018-10-23 21:20:28 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Sprint2
+------------------------------------------------------------------------
+r70 | rahma421@UTORONTO.CA | 2018-10-23 21:13:42 -0400 (Tue, 23 Oct 2018) | 2 lines
+
+Added scrum report for week 2
+
+------------------------------------------------------------------------
+r69 | duhanxia@UTORONTO.CA | 2018-10-23 20:56:48 -0400 (Tue, 23 Oct 2018) | 3 lines
+
+Finished CommandHandler, CommandSet, Exit
+Added methods for Parser, exit flag for Environment
+Modified the loop in the Shell so that it can detect the exit flag
+------------------------------------------------------------------------
+r68 | zouchenh@UTORONTO.CA | 2018-10-23 15:54:56 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Adding the output package.
+------------------------------------------------------------------------
+r67 | rahma421@UTORONTO.CA | 2018-10-23 13:59:53 -0400 (Tue, 23 Oct 2018) | 2 lines
+
+updated parser to return String[] instead of an ArrayList
+
+------------------------------------------------------------------------
+r66 | rahma421@UTORONTO.CA | 2018-10-23 13:47:03 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Added parser class
+------------------------------------------------------------------------
+r65 | duhanxia@UTORONTO.CA | 2018-10-23 13:08:00 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Modified Methods in CommandSet to be static
+------------------------------------------------------------------------
+r64 | duhanxia@UTORONTO.CA | 2018-10-23 13:03:49 -0400 (Tue, 23 Oct 2018) | 1 line
+
+modified CommandHandler class
+------------------------------------------------------------------------
+r63 | zhengj69@UTORONTO.CA | 2018-10-23 11:01:07 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Changed all indentation to 2 to match Google Style
+------------------------------------------------------------------------
+r62 | zhengj69@UTORONTO.CA | 2018-10-23 10:59:15 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Fix indent for Mkdir
+------------------------------------------------------------------------
+r61 | zhengj69@UTORONTO.CA | 2018-10-23 10:58:10 -0400 (Tue, 23 Oct 2018) | 1 line
+
+Add constructors
+------------------------------------------------------------------------
+r60 | zouchenh@UTORONTO.CA | 2018-10-22 18:34:55 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Fix the return typo in getManual method.
+------------------------------------------------------------------------
+r59 | zouchenh@UTORONTO.CA | 2018-10-22 18:33:47 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Change all the manual methods to return their manual instead of printing it.
+------------------------------------------------------------------------
+r58 | zouchenh@UTORONTO.CA | 2018-10-22 18:05:20 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding all the subclasses for Command class.
+------------------------------------------------------------------------
+r57 | duhanxia@UTORONTO.CA | 2018-10-22 14:34:51 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Modified crcCard for History.
+------------------------------------------------------------------------
+r56 | duhanxia@UTORONTO.CA | 2018-10-22 14:11:20 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Added constructor for CommandSet
+------------------------------------------------------------------------
+r55 | duhanxia@UTORONTO.CA | 2018-10-22 14:06:29 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Change all method in CommandSet to be static, added getAllCommands method to CommandSet
+------------------------------------------------------------------------
+r54 | zouchenh@UTORONTO.CA | 2018-10-22 12:17:30 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the getManual method to Man class to print the manual of given command.
+------------------------------------------------------------------------
+r53 | zouchenh@UTORONTO.CA | 2018-10-22 12:16:48 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method to the super class.
+------------------------------------------------------------------------
+r52 | zouchenh@UTORONTO.CA | 2018-10-22 11:53:06 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding  the manual method for Man class.
+------------------------------------------------------------------------
+r51 | duhanxia@UTORONTO.CA | 2018-10-22 11:47:22 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Added toList method to Stack
+------------------------------------------------------------------------
+r50 | zouchenh@UTORONTO.CA | 2018-10-22 11:45:22 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for Pwd class.
+------------------------------------------------------------------------
+r49 | zouchenh@UTORONTO.CA | 2018-10-22 11:44:53 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for Pushd class.
+------------------------------------------------------------------------
+r48 | zouchenh@UTORONTO.CA | 2018-10-22 11:44:15 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for Popd class.
+------------------------------------------------------------------------
+r47 | zouchenh@UTORONTO.CA | 2018-10-22 11:42:14 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for Mkdir class.
+------------------------------------------------------------------------
+r46 | zouchenh@UTORONTO.CA | 2018-10-22 11:36:37 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the Ls class with its manual method inside.
+------------------------------------------------------------------------
+r45 | zouchenh@UTORONTO.CA | 2018-10-22 11:36:04 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for History class.
+------------------------------------------------------------------------
+r44 | zouchenh@UTORONTO.CA | 2018-10-22 11:35:33 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the manual method for Exit class.
+------------------------------------------------------------------------
+r43 | zouchenh@UTORONTO.CA | 2018-10-22 11:34:53 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the Echo class with its manual method inside.
+------------------------------------------------------------------------
+r42 | zouchenh@UTORONTO.CA | 2018-10-22 11:34:34 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the Cd class with its manual method inside.
+------------------------------------------------------------------------
+r41 | zouchenh@UTORONTO.CA | 2018-10-22 11:34:09 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Adding the Cat class with its manual method inside.
+------------------------------------------------------------------------
+r40 | zhengj69@UTORONTO.CA | 2018-10-22 11:31:15 -0400 (Mon, 22 Oct 2018) | 1 line
+
+Shell passively pushes command into stack
+------------------------------------------------------------------------
+r39 | zhengj69@UTORONTO.CA | 2018-10-22 11:30:10 -0400 (Mon, 22 Oct 2018) | 1 line
+
+JShell now initializes a root directory, env now have stacks
+------------------------------------------------------------------------
+r38 | duhanxia@UTORONTO.CA | 2018-10-21 00:59:23 -0400 (Sun, 21 Oct 2018) | 1 line
+
+Added comments for CommandSet.
+------------------------------------------------------------------------
+r37 | duhanxia@UTORONTO.CA | 2018-10-21 00:48:10 -0400 (Sun, 21 Oct 2018) | 2 lines
+
+Added CommandHandler, CommandSet, Exit and the crcCard for CommandSet.
+Changed the ArrayList in Stack to be private.
+------------------------------------------------------------------------
+r36 | rahma421@UTORONTO.CA | 2018-10-20 23:32:00 -0400 (Sat, 20 Oct 2018) | 1 line
+
+fixed wording in scrum meeting
+------------------------------------------------------------------------
+r35 | duhanxia@UTORONTO.CA | 2018-10-20 22:18:42 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Renamed scrum meeting file
+------------------------------------------------------------------------
+r34 | zouchenh@UTORONTO.CA | 2018-10-20 22:14:36 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Add my daily scrum meeting for October 20th.
+------------------------------------------------------------------------
+r33 | zhengj69@UTORONTO.CA | 2018-10-20 22:06:54 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Add scrum meeting notes
+------------------------------------------------------------------------
+r32 | duhanxia@UTORONTO.CA | 2018-10-20 21:40:11 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Modified the crcCards for Exit and Stack
+------------------------------------------------------------------------
+r31 | duhanxia@UTORONTO.CA | 2018-10-20 21:18:37 -0400 (Sat, 20 Oct 2018) | 1 line
+
+CrcCard for Exit class
+------------------------------------------------------------------------
+r30 | duhanxia@UTORONTO.CA | 2018-10-20 21:15:04 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Added first sprint txt file
+------------------------------------------------------------------------
+r29 | rahma421@UTORONTO.CA | 2018-10-20 20:32:25 -0400 (Sat, 20 Oct 2018) | 1 line
+
+added scrum meeting for october 20th
+------------------------------------------------------------------------
+r28 | zouchenh@UTORONTO.CA | 2018-10-20 13:26:08 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Formatted all CRC Cards in the correct format.
+------------------------------------------------------------------------
+r27 | zouchenh@UTORONTO.CA | 2018-10-20 13:16:59 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Adding file to replace the file with naming typo found from it's file name
+------------------------------------------------------------------------
+r26 | zhengj69@UTORONTO.CA | 2018-10-20 12:42:47 -0400 (Sat, 20 Oct 2018) | 1 line
+
+Add getter for args/env
+------------------------------------------------------------------------
+r25 | zouchenh@UTORONTO.CA | 2018-10-20 10:17:33 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+Adding the basic structure of class History.
+
+------------------------------------------------------------------------
+r24 | zouchenh@UTORONTO.CA | 2018-10-20 09:53:13 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+Adding the basic structure of class Man.
+
+------------------------------------------------------------------------
+r23 | zouchenh@UTORONTO.CA | 2018-10-20 09:37:08 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+Adding CRC Card for class History.
+
+------------------------------------------------------------------------
+r22 | zouchenh@UTORONTO.CA | 2018-10-20 09:22:21 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+Adding the CRC Card for class "Man".
+
+------------------------------------------------------------------------
+r21 | zouchenh@UTORONTO.CA | 2018-10-20 09:21:18 -0400 (Sat, 20 Oct 2018) | 2 lines
+
+Adding CRC Card for class "Man". Added "Man" into Command's subclasses.
+
+------------------------------------------------------------------------
+r20 | duhanxia@UTORONTO.CA | 2018-10-19 15:30:10 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Added the crcCard for Stack class and Stack class.
+------------------------------------------------------------------------
+r19 | zhengj69@UTORONTO.CA | 2018-10-19 14:09:23 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Fix some format
+------------------------------------------------------------------------
+r18 | rahma421@UTORONTO.CA | 2018-10-19 13:09:30 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Created and Node superclass ad Directory child class which directly inherits from Node, finished the sprint tasks for Directory
+------------------------------------------------------------------------
+r17 | zhengj69@UTORONTO.CA | 2018-10-19 12:56:37 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Fix some cards
+------------------------------------------------------------------------
+r16 | zhengj69@UTORONTO.CA | 2018-10-19 12:55:03 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Add Environment and Shell to crcCards
+------------------------------------------------------------------------
+r15 | zhengj69@UTORONTO.CA | 2018-10-19 12:54:37 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Fixed some structure problem
+------------------------------------------------------------------------
+r14 | zhengj69@UTORONTO.CA | 2018-10-19 12:41:34 -0400 (Fri, 19 Oct 2018) | 1 line
+
+JShell now keeps prompting user for input
+------------------------------------------------------------------------
+r13 | zhengj69@UTORONTO.CA | 2018-10-19 11:57:19 -0400 (Fri, 19 Oct 2018) | 1 line
+
+Add basic set of cards
+------------------------------------------------------------------------
+r12 | zhengj69@UTORONTO.CA | 2018-10-17 23:43:23 -0400 (Wed, 17 Oct 2018) | 1 line
+
+Add a task for CRC design
+------------------------------------------------------------------------
+r11 | zhengj69@UTORONTO.CA | 2018-10-16 16:07:05 -0400 (Tue, 16 Oct 2018) | 1 line
+
+Add sprint 1 backlog
+------------------------------------------------------------------------
+r10 | zhengj69@UTORONTO.CA | 2018-10-16 16:05:40 -0400 (Tue, 16 Oct 2018) | 1 line
+
+Add product backlog
+------------------------------------------------------------------------
+r7 | attarwal@UTORONTO.CA | 2018-10-15 18:03:23 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r6 | attarwal@UTORONTO.CA | 2018-10-15 18:03:23 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r5 | attarwal@UTORONTO.CA | 2018-10-15 18:03:22 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r4 | attarwal@UTORONTO.CA | 2018-10-15 18:03:21 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2018-10-15 18:03:21 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2018-10-15 18:03:20 -0400 (Mon, 15 Oct 2018) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | Markus | 2018-10-14 15:25:05 -0400 (Sun, 14 Oct 2018) | 1 line
+
+
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
++++ON ALL SOURCE FILES+++
+  23 attarwal@U
+ 550 duhanxia@U
+ 751 rahma421@U
+2080 zhengj69@U
+ 208 zouchenh@U
++++ON CRC CARDS+++
+   9 attarwal@U
+  23 duhanxia@U
+  89 rahma421@U
+ 144 zhengj69@U
+  31 zouchenh@U
++++ON DAILYSCRUMMEETINGS+++
+  40 attarwal@U
+  72 duhanxia@U
+  80 rahma421@U
+  73 zhengj69@U
+  69 zouchenh@U
++++ON PRODUCT BACKLOG +++
+  11 attarwal@U
+  32 zhengj69@U
++++ON SPRINTS+++
+  68 attarwal@U
+  49 rahma421@U
+  97 zhengj69@U
+29451
+Part 4) SVN Commits
+
+
+On Sprints
+   1  attarwal@UTORONTO.CA 
+   1  rahma421@UTORONTO.CA 
+   5  zhengj69@UTORONTO.CA 
+   1  zouchenh@UTORONTO.CA 
+
+
+On CRC Cards
+   1  attarwal@UTORONTO.CA 
+   5  duhanxia@UTORONTO.CA 
+   3  rahma421@UTORONTO.CA 
+  13  zhengj69@UTORONTO.CA 
+   6  zouchenh@UTORONTO.CA 
+
+
+On DailyScrumMeetings
+   1  attarwal@UTORONTO.CA 
+   8  duhanxia@UTORONTO.CA 
+  12  rahma421@UTORONTO.CA 
+   7  zhengj69@UTORONTO.CA 
+   7  zouchenh@UTORONTO.CA 
+
+
+On ProductBacklog
+   1  attarwal@UTORONTO.CA 
+   3  zhengj69@UTORONTO.CA 
+
+
+On source
+   1  attarwal@UTORONTO.CA 
+  20  duhanxia@UTORONTO.CA 
+  30  rahma421@UTORONTO.CA 
+  66  zhengj69@UTORONTO.CA 
+  38  zouchenh@UTORONTO.CA 

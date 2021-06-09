@@ -1,0 +1,9 @@
+Classname: History
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Print out recent commands to screen.
+
+Collaborators:
+* environment.Stack

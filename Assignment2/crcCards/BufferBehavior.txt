@@ -1,0 +1,9 @@
+Classname (Enumerator): BufferBehavior
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Dictate the buffer behavior - either automatically flush buffer or manually
+
+Collaborators:
+* None

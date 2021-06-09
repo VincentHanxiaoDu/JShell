@@ -1,0 +1,9 @@
+Classname: Man
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Get and print the manual of given CMD to screen.
+
+Collaborators:
+* util.Parser

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- worked on Node superclass 
+	- worked on Directory class
+	- added methods to add and remove files (Nodes) within 	 	  directories
+	- brainstormed with team on top down designs for the project 	  as well as CRC cards.
+
+What do I plan to work in the next three days?
+	- the parser class which parses the given input to jshell
+	- the File class
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment

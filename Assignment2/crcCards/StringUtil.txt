@@ -1,0 +1,11 @@
+Classname: StringUtil
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Exposes utilities methods for strings.
+* Remove last N chars from a string.
+
+Collaborators:
+* None
+

@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+  - Fixed bugs in Popd
+  - Fixed bugs in Exit
+  - Fixed bugs in Pushd
+  - Fixed bugs in Man
+  - Fixed bugs in Cd
+
+What do I plan to work in the next three days?
+  - Test all classes and make sure they work properly
+
+
+Am I blocked on anything?
+  - Not blocked on anything at the moment

@@ -1,0 +1,9 @@
+Classname (Interface): IOutputIO
+Parent class: None
+Subclasses: OutputIO
+
+Responsibilities:
+* Interface for all output streams
+
+Collaborators:
+* None

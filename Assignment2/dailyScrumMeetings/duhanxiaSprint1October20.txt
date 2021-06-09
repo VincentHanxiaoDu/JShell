@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Confirmed the design of the project
+  - Finished Stack class
+  - Added Exit class
+
+What do I plan to work in the next three days?
+  - Work on the CommandHandler class
+  - Link the existing commands to CommandHandler
+
+Am I blocked on anything?
+  - The signal setter in environment.Environment class

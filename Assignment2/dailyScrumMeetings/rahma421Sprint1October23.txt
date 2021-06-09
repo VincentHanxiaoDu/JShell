@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+	- created parser class
+	- created getter methods in parser class
+What do I plan to work in the next three days?
+	- the ls command from the current directory
+	- the ls command from any directory
+	- mkDir being able to validate the path is correct
+	- mkDir being able to create a folder at path
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment
+
+

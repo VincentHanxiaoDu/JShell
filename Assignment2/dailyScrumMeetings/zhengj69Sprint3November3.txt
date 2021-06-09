@@ -1,0 +1,13 @@
+What did I work on in the last three days?
+  - Reviewed code design.
+  - Wrote test cases for ConsoleInputIO, Environment, Parser, Stack and StringUtil
+    with 100% coverage.
+  - Fixed minor bugs within the system.
+
+What do I plan to work in the next three days?
+  - Work with the team to thoroughly test the code.
+  - Update CRC cards to make sure they reflect the design
+
+
+Am I blocked on anything?
+  - Not blocked on anything at the moment

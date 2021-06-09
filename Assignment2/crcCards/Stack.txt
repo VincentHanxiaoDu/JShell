@@ -1,0 +1,12 @@
+Classname: Stack
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Store string elements as a stack
+* Pop string element of the stack (remove and return the element on top)
+* Peek string element of the stack (return the element on top)
+* Push string element to the stack (add an element to the top)
+
+Collaborators:
+* None

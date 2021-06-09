@@ -1,0 +1,10 @@
+Classname: Tree
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Display context of files and directories in a tree form.
+
+Collaborators:
+* Traverse
+* StdOutputIO

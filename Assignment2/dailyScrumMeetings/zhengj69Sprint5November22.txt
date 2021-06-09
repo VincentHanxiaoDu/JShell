@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Save command works.
+  - Load command works.
+
+What do I plan to work in the next three days?
+  - Refactor our code a bit so it is more clean.
+  - Add dependency injections.
+  - Write tests.
+
+Am I blocked on anything?
+  - Nothing atm.

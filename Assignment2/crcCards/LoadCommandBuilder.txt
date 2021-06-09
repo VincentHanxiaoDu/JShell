@@ -1,0 +1,10 @@
+Classname: LoadCommandBuilder
+Parent class: CommandBuilder
+Subclasses: None
+
+Responsibilities:
+* Builder class for commands for Load command
+* Sets and Returns the serialized object
+
+Collaborators:
+* IObjectSerializer

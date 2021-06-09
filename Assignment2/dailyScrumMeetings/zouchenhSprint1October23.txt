@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Added basic structure of all commands into command package.
+  - Implemented the manual method for each command class.
+  - Added output package with OutputIO and StdOutputIO classes in it.
+
+What do I plan to work in the next three days?
+  - Finish Output classes.
+  - Finish everything related to manual.
+  - Make sure all commands work.
+
+Am I blocked on anything?
+  - Manuals can be printed when Output classes are implemented.

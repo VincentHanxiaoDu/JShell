@@ -1,0 +1,45 @@
+November 19th to November 26th
+
+Tickets That Were Not Completed and Brought Forward From Sprint 4:
+a-5. (Ls) Recognize when given -R parameter.
+c-1. (Exit) Should give an error if exit is used with any redirect parameters.
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to list all files and folders within folders, including sub-folders
+g) As a user, I should be able to save the state of the program into a file on my computer.
+h) As a user, I should be able to load the state file from my computer to the program.
+i) As a user, I should be able to copy any files or folders to a new location.
+j) As a user, I should be able to search for files or folders.
+k) As a user, I should be able to get a tree view of all files and folders.
+
+Specific tasks to be accomplished:
+
+a-6: (Ls) should output recursive files in correct format
+a-7: (Ls) Create complete JUnit test cases for Ls
+g-1. Have a file writer that writes file onto actual disk.
+g-2. The program should be able to serialize its environment.
+g-3. Should be able to get the serialized content, and write to disk.
+g-4. (Save) Save command should work.
+h-1. Have a file reader that reads file from actual disk.
+h-2. The program should be able to deserialize its environment.
+h-3. (Load) Load command should work.
+h-4. (Load) Load command should error out if user already typed any other command.
+i-1. (Cp) Create Cp class and make sure it works.
+j-1. (Find) Should recognize the flag.
+j-2. (Find) Should find the target directories or files.
+k-1. (Tree) Should display a tree view of files and directories.
+k-2. (Tree) Make sure Tree class works well with traversal.
+k-3. (Tree) Create complete JUnit test cases for Tree.
+
+
+User: Jun Zheng
+Tasks: g-1, g-2, g-3, g-4, h-1, h-2, h-3, h-4
+
+User: Kasra Rahmani
+Tasks: a-5, a-6, a-7
+
+User: Hanxiao Du
+Tasks: i-1, j-1, j-2
+
+User: Chenhao Zou
+Tasks: c-1, k-1, k-2, k-3

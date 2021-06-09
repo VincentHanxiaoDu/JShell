@@ -1,0 +1,9 @@
+Classname: CommandNotFoundException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when a command given by a user does not exist
+
+Collaborators:
+* None

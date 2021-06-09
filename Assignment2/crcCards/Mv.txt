@@ -1,0 +1,11 @@
+Classname: Mv
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Move Node from old path to new path
+
+Collaborators:
+* Directory
+* File
+* Traverse

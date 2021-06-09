@@ -1,0 +1,9 @@
+Classname: IParameters
+Parent class: None
+Subclasses: Parameters
+
+Responsibilities:
+* Interface for reading parameters inputted to be used by a command
+
+Collaborators:
+* None

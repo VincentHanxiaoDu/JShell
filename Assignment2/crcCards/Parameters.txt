@@ -1,0 +1,10 @@
+Classname: Parameters
+Parent class: IParameters
+Subclasses: None
+
+Responsibilities:
+* Takes in an list of strings, extract the command name, arguments and IO redirection args
+
+Collaborators:
+* java.util.ArrayList
+* InvalidNumberOfArgumentsException

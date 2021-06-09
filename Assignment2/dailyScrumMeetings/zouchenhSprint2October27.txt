@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Finished the write method in StdOutputIO class for printing anything been passed in.
+  - Finished the getManual method for every command classes.
+  - Finished the run method in Man class for getting manual from each command.
+  - Finished the run method in History class for printing currently typed commands.
+  - Finished the run method in Pwd class for printing the current working directory when called.
+
+What do I plan to work in the next three days?
+  - Make commands connect with the shell so they can be called and tested.
+
+Am I blocked on anything?
+  - I'm not blocked on anything.

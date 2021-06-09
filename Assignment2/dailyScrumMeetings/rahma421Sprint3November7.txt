@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+	- Did final debugging of all commands
+	- made sure no files have more than 80 characters per line
+	- added javadoc to anything that was missing
+	- wrote JUnit tests for Ls
+	- wrote JUnit tests for Mkdir
+	- wrote JUnit tests for Directory
+	- wrote JUnit tests for File
+
+What do I plan to work in the next three days?
+	- Nothing. End of last sprint. Project is finished :)
+
+Am I blocked on anything?
+	- Nothing
+
+
+

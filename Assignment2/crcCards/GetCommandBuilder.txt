@@ -1,0 +1,10 @@
+Classname: GetCommandBuilder
+Parent class: CommandBuilder
+Subclasses: None 
+
+Responsibilities:
+* Builder class for commands for Get command
+* Returns the data gotten from the internet 
+
+Collaborators:
+* DataFetcher

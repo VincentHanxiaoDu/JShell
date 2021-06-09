@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Updated the run method in Man class.
+  - Finished the run method in Cat class.
+  - Connected the commands with the shell.
+
+What do I plan to work in the next three days?
+  - Test all the run methods.
+  - Add all the comments for the methods in each class.
+
+
+Am I blocked on anything?
+  - Not blocked on anything at this moment.

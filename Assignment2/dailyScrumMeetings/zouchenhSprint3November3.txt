@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+  - Fixed the run method in Pwd class.
+  - Fixed the run method in Man method.
+
+What do I plan to work in the next three days?
+  - Write unit test file for commands.
+
+Am I blocked on anything?
+  - Not blocked at any part at the moment

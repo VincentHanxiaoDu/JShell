@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- fixed bug in parser class
+	- created MkDir class
+	- MkDir can now create directories in any absolute or relative path
+	- MkDir can validate if path is correct and throws errors if a directory exists
+What do I plan to work in the next three days?
+	- the ls command from the current directory
+	- the ls command from any directory
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment
+

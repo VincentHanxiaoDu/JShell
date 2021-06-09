@@ -1,0 +1,9 @@
+Classname: JShell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Initializes a new shell and runs it
+
+Collaborators:
+* Shell

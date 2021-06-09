@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Finished tree command.
+  - Updated exit command.
+  - Finished the HistoryTest class.
+  - Updated all CRC cards.
+  - Added the TreeTest class.
+
+What do I plan to work in the next three days?
+  - Finish the TreeTest class.
+
+Am I blocked on anything?
+  - I'm not blocked on anything at the moment.

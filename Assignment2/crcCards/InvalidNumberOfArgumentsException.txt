@@ -1,0 +1,9 @@
+Classname: InvalidNumberOfArgumentsException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when arguments given to a command is invalid
+
+Collaborators:
+* None

@@ -1,0 +1,32 @@
+User Stories                                          | Time Estimate (hrs)
+--------------------------------------------------------------------------
+1)  As a user I should be able to type commands       | 3
+    on screen.                                        |
+2)  As a user I should be able to read manuals        | 2
+    of commands.                                      |
+3)  As a user I should be able to add contents        | 3
+    to a file.                                        |
+4)  As a user I should be able to clear the file      | 2
+    content and add my own.                           |
+5)  As a user I should be able to write contents      | 2
+    to screen.                                        |
+6)  As a user I should be able to view file           | 2
+    contents.                                         |
+7)  As a user I should be able to view the history    | 3
+    of commands I have used recently.                 |
+8)  As a user I should be able to go back and         | 2
+    forth between folders.                            |
+9)  As a user I should be able to see which folder    | 1
+    I am in on the computer.                          |
+10) As a user I should be able to view contents       | 2
+    of folders.                                       |
+11) As a user I should be able to create a new        | 2
+    folder anywhere on the computer.                  |
+12) As a user I should be able to close the program.  | 1
+
+---- ADDED ON OCT 29th ----
+13) As a user I should be able to create a new file.  | 2
+
+---- ADDED ON OCT 30th ----
+14) As a user I should be able to use this program    | 3
+    without it crashing or behaves weirdly.           |

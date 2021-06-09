@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- Continued to debug parser class, many little bugs on edge cases were found
+
+What do I plan to work in the next three days?
+	- write the ls command
+	- the ls command should be able to call from any directory as well as current
+	- create and write crc cards for directory, parser, ls classes
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment
+
+

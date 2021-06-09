@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+  - Talked about and came up with the design of the project with teammates.
+  - Added Man and History classes.
+  - Finished the CRC Cards for Man and History.
+  - Formatted all the CRC Cards in the correct format.
+
+What do I plan to work in the next three days?
+  - Finish the Man and History classes.
+  - Link the commands with shell so they can be called.
+  - Test all these new added features.
+
+Am I blocked on anything?
+  - Man class will work if the static method in each command that print
+    out their manuals is implemented.
+

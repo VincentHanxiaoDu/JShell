@@ -1,0 +1,49 @@
+October 31st to November 7th
+
+Tickets That Were Not Completed and Brought Forward From Sprint 2:
+j-1. (Ls) ls should print files and directories from current directory to the screen.
+j-2. (Ls) ls should be able to print files from any given directory to the screen.
+k-1. (Cd)  cd should be able to change the current working directory.
+k-2. (Pushd) pushd should be able to save the current working directory to the directory stack.
+k-3. (Pushd) pushd should be able to change the current working directory.
+k-4. (Popd) popd should be able to remove the top directory from the directory stack
+     and cd into the removed directory.
+
+User Stories from Product Backlog that we will address in this sprint:
+i) As a user I should be able to create a new folder anywhere on the computer.
+j) As a user I should be able to view contents of folders.
+k) As a user I should be able to go back and forth between folders.
+m) As a user I should be able to use this program without it crashing or behaves weirdly.
+n) As a user I should be able to create a new file.
+
+Specific tasks to be accomplished:
+
+i-1. Directories cannot have certain characters or symbols in a file (ie. ! $ * etc.)
+i-2. create test cases to ensure mkDir doesn't allow illegal file names.
+j-1. Test everything to make sure everything is working.
+j-2. Validate the design and see where we can improve.
+j-3. Check CRC cards and make sure they are correct.
+m-1. Create test class for each command to make sure they work correctly.
+m-2. Debug all parts of the program to make sure they work together as they suppose to.
+n-1. Make sure echo creates new file if path does not exist.
+
+User: Jun Zheng
+Tasks: j-1, j-2, j-3, n-1
+
+User: Kasra Rahmani
+Tasks: i-1, i-2, j-1, j-2
+
+User: Hanxiao Du
+Tasks: k-1, k-2, k-3, k-4
+
+User: Chenhao Zou
+Tasks: m-1, m-2
+
+--------- MODIFIED ON OCT 31ST ---------
+Since we added a story to the product backlog. This sprint has been changed to reflect that.
+
+--------- MODIFIED ON OCT 31ST ---------
+Since story l is finished in the last sprint. This sprint has been changed to reflect that.
+
+--------- MODIFIED ON OCT 31ST ---------
+MKDIR program has been completed. This sprint has been changed to reflect that.

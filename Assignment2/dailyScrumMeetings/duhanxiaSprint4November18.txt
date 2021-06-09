@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Finished Get
+  - Added exceptions
+  - Fixed bugs
+
+What do I plan to work in the next three days?
+  - Write Cp
+  - Write Find
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment

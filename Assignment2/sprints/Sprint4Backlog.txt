@@ -1,0 +1,44 @@
+November 12th to November 18th 
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to list all files and folders within folders,
+   including sub-folders
+b) As a user I should be able to save the output of any command into a file.
+   I should be able to overwrite a file with this output and be able to add the output to the end of a file.
+c) As a user, I shouldn't be able to redirect the output of exit to a file and
+   I expect to get an error when I try to do so.
+d) As a user when I try to see the contents of multiple files, if I provided
+   a wrong path I still expect to be shown all valid files on the other correct paths
+e) As a user, I should be able to move any files or folders to a new location.
+f) As a user, I should be able to download files from the internet and save it.
+
+Specific tasks to be accomplished:
+
+a-1. (Traverse) Begin to code a utility class that allows traversal of all nodes (files and folders)
+a-2. (Traverse) Create method to traverse all nodes (files and folders) from the root
+a-3. (Traverse) Create method to traverse all directories from root
+a-4. (Traverse) Create method to traverse all nodes from any given absolute or relative path
+a-5. (Ls) Recognize when given -R parameter.
+b-1. (OutputIO) Refactor extract redirection logic so it's global to all commands
+b-2. (OutputIO) Add a buffer to output stream in order to have multiple write calls without each individual call outputting one at a time.
+b-3. (OutputIO) Path system should be fixed so a file with an empty name cannot be created
+c-1. (Exit) Should give an error if exit is used with any redirect parameters
+c-2. (Exit) Should not exit the shell
+d-1. (Cat) Should print an error when given an invalid path 
+d-2. (Cat) Should continue to print rest of valid paths' contents when given an invalid path
+e-1. (Mv) Mv create Mv class which can move a file from old path to new path
+e-2. (Mv) Make Mv class able to move folders to a new path
+f-1. (URLParser) create a new class which parses a given URL
+f-2. get URL Retrieve the file at the URL and add it to the current working directory
+
+User: Jun Zheng
+Tasks: b-1, b-2, b-3
+
+User: Kasra Rahmani
+Tasks: a-1, a-2, a-3, a-4, a-5
+
+User: Hanxiao Du
+Tasks: e-1, e-2, f-1, f-2
+
+User: Chenhao Zou
+Tasks: d-1, d-2, c-1, c-2

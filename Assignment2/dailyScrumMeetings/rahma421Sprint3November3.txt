@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+	- debugged mkdir command, a folder should correctly be created given any correct path
+	- further mkdir debugging, mkdir doesn't allow mkdir / anymore
+	- debugged ls command, doing ls / correctly prints "/:"
+
+What do I plan to work in the next three days?
+	- javadoc for function
+	- clean up some function codes
+	- create crc cards for missing functions
+
+Am I blocked on anything?
+	- Not blocked on anything at the moment
+
+

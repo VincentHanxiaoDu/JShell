@@ -1,0 +1,45 @@
+October 18th to October 23rd
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user I should be able to type commands on screen.
+b) As a user I should be able to read manuals of commands.
+c) As a user I should be able to see which folder I am in on the computer.
+d) As a user I should be able to view the history of commands I have used recently.
+e) As a user I should be able to close the program.
+
+Specific tasks to be accomplished:
+
+a-1. (CRC) As a team, decide on the initial design, have a set of CRC cards ready.
+a-2. (JShell) Begin to code the structure of shell.
+a-3. (JShell) Make the shell keep prompt user for input.
+a-4. (JShell) Shell should be able to parse the input into keywords.
+b-1. (ShellProgram) Should have a static method that returns its manual.
+b-2. (OutputIO) Should have a output class that can prints to the screen.
+b-3. (Man) Should get the manual of given command, and prints it to the screen.
+b-4. (JShell) Link the command with shell so it can be called, and test it.
+c-1. (Environment) Should have a class that can store current shell state.
+     Which include the current directory.
+c-2. (Directory) Should have a class that represents a folder on the computer.
+c-3. (Directory) The Directory class should be able to return references to its parent (..) and itself (.).
+c-4. (Directory) The Directory class should be able to return references to its children.
+c-5. (Pwd) Should be able to print current directory.
+c-6. (JShell) Link the command with shell so it can be called, and test it.
+d-1. (Stack) Should have a stack class that can push and pop objects.
+d-2. (Environment) The environment should contain a stack for command history.
+d-3. (JShell) Should passively push the most recent command on to the stack.
+d-4. (History) Should be able to print the command stack.
+d-5. (JShell) Link the command with shell so it can be called, and test it.
+e-1. (Exit) Should exit the shell.
+e-2. (JShell) Link the command with shell so it can be called, and test it.
+
+User: Jun Zheng
+Tasks: a-1, a-2, a-3, c-1, d-2, d-3
+
+User: Kasra Rahmani
+Tasks: a-1, a-4, c-2, c-3, c-4, c-5
+
+User: Hanxiao Du
+Tasks: a-1, d-1, b-4, c-6, e-1, e-2
+
+User: Chenhao Zou
+Tasks: a-1, b-1, b-2, b-3, d-4, d-5

@@ -1,0 +1,19 @@
+What did I work on in the last three days?
+	- created recursive traverse method in ls
+	- updated ls javadoc
+	- updated ls to follow new structuring of code
+
+What do I plan to work in the next three days? 
+	- bug test recursive traverse method in ls
+	- fix formatting for recursive ls
+	- make sure -R works perfectly
+	- create complete JUnit test case for ls
+	- create more JUnit test cases
+
+Am I blocked on anything?
+	- Nothing
+
+
+
+
+

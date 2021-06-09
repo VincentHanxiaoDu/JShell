@@ -1,0 +1,9 @@
+Classname: AppendFileOutputIO
+Parent class: OutputIO
+Subclasses: None
+
+Responsibilities:
+* Append content to a file
+
+Collaborators:
+* File

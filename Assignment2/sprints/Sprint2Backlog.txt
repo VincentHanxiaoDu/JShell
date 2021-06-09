@@ -1,0 +1,52 @@
+October 24th to October 30th
+
+Tickets That Were Not Completed and Brought Forward From Sprint 1:
+a-4. (JShell) Shell should be able to parse the input into keywords.
+b-2. (OutputIO) Should have a output class that can prints to the screen.
+b-3. (Man) Should get the manual of given command, and prints it to the screen.
+b-4. (JShell) Link the command with shell so it can be called, and test it.
+d-4. (History) Should be able to print the command stack.
+c-5. (Pwd) Should be able to print current directory.
+c-6. (JShell) Link the command with shell so it can be called, and test it.
+d-5. (JShell) Link the command with shell so it can be called, and test it.
+
+User Stories from Product Backlog that we will address in this sprint:
+f) As a user I should be able to add contents to a file.
+g) A s a user I should be able to clear the file content and add my own.
+h) As a user I should be able to write contents to screen.
+i) As a user I should be able to create a new folder anywhere on the computer.
+j) As a user I should be able to view contents of folders.
+k) As a user I should be able to go back and forth between folders.
+l) As a user I should be able to view file contents.
+
+Specific tasks to be accomplished:
+
+f-1. (File) Should have a File class that represents a text file.
+f-2. (AppendFileOutputIO) Should have an IO class that can append to files.
+f-3. (Echo) Should make echo with >> work.
+g-1. (OverwriteFileOutputIO) Should have an IO class that can overwrite files.
+g-2. (Echo) Should make echo with > work.
+h-1. (Echo) Echo should be able to parse the argument, ensure input is valid.
+h-2. (Echo) Echo should be able to print contents to screen.
+i-1. (MkDir) mkDir should be able to create a directory given a path.
+i-2. (MkDir) mkDir should be able to validate a given path is correct/exists.
+j-1. (Ls) ls should print files and directories from current directory to the screen.
+j-2. (Ls) ls should be able to print files from any given directory to the screen.
+k-1. (Cd)  cd should be able to change the current working directory.
+k-2. (Pushd) pushd should be able to save the current working directory to the directory stack.
+k-3. (Pushd) pushd should be able to change the current working directory.
+k-4. (Popd) popd should be able to remove the top directory from the directory stack
+     and cd into the removed directory.
+l-1 (Cat) cat should print the contents of the given file/files to the screen.
+
+User: Jun Zheng
+Tasks: f-1, f-2, f-3, g-1, g-2, h-1, h-2
+
+User: Kasra Rahmani
+Tasks: a-4, i-1, i-2, j-1, j-2
+
+User: Hanxiao Du
+Tasks: b-4, c-6, k-1, k-2, k-3, k-4
+
+User: Chenhao Zou
+Tasks: b-2, b-3, c-5, d-4, d-5, l-1

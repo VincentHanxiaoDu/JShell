@@ -1,0 +1,11 @@
+Classname: ConsoleInputIO
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Read an input stream and pushes to command stack
+
+Collaborators:
+* Environment
+* java.util.Scanner
+* java.io.InputStream

@@ -1,0 +1,19 @@
+What did I work on in the last three days?
+	- Bug tested ls -R
+	- Updated ls to print the paths that its given
+	- Updated any class that didn't have javadoc
+	- Added all missing CRC cards
+	- Updated existing CRC cards to match current code structure
+	- Updated JUnit tests for ls
+	- created JUnit tests for Traverse
+
+What do I plan to work in the next three days? 
+	- Nothing, the project is finished
+
+Am I blocked on anything?
+	- Nothing
+
+
+
+
+

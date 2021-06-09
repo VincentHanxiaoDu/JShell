@@ -1,0 +1,10 @@
+Classname: Parser
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Parses a string to Parameters
+
+Collaborators:
+* Parameters
+* java.util.ArrayList

@@ -1,0 +1,9 @@
+Classname: OverwriteFileOutputIO
+Parent class: OutputIO
+Subclasses: None
+
+Responsibilities:
+* Overwrite a file's content
+
+Collaborators:
+* None (File is already collaborating with OutputIO)

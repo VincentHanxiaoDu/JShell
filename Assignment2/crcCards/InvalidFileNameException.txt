@@ -1,0 +1,9 @@
+Classname: InvalidFileNameException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when a file name given by a user is not valid
+
+Collaborators:
+* None

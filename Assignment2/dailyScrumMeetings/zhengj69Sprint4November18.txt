@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+  - Path system is fixed to not allow empty file names.
+  - Output stream now have a buffer.
+  - Fixed all commands to use the buffer for output.
+
+What do I plan to work in the next three days?
+  - Make the program able to save state into a local file.
+
+Am I blocked on anything?
+  - Nothing atm.

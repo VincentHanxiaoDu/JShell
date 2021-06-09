@@ -1,0 +1,9 @@
+Classname: BinaryObjectSerializer
+Parent class: IObjectSerializer
+Subclasses: None
+
+Responsibilities:
+* Serializes an object to be saved to the computer
+* Can deserialize an object to be read by the program
+
+Collaborators:

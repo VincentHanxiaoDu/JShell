@@ -1,0 +1,9 @@
+Classname: StdOutputIO
+Parent class: OutputIO
+Subclasses: None
+
+Responsibilities:
+* Write content to the screen
+
+Collaborators:
+* None

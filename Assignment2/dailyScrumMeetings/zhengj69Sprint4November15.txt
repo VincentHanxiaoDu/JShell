@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+  - Made IO redirection work with all commands.
+
+What do I plan to work in the next three days?
+  - Add buffer to output stream.
+  - Fix the path system so user cannot create empty files.
+
+Am I blocked on anything?
+  - Nothing atm.

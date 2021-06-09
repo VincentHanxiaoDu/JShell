@@ -1,0 +1,11 @@
+Classname: Node
+Parent class: (Implements) Serializable
+Subclasses: Directory, File
+
+Responsibilities:
+* Holds the name, type (file or directory), and parent of each Node
+* Set a new parent for a Node
+* Return the root node
+
+Collaborators:
+* None

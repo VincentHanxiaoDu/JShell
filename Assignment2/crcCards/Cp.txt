@@ -1,0 +1,9 @@
+Classname: Cp
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Copy a node from old path to new path
+
+Collaborators:
+* None

@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Worked on CommandSet class
+  - Worked on CommnadHandler Class
+
+What do I plan to work in the next three days?
+  - Finish CommandSet
+  - Finish CommandHandler
+
+
+Am I blocked on anything?
+  - The signal setter in environment.Environment class
+  - The Parser class(for CommandHandler)

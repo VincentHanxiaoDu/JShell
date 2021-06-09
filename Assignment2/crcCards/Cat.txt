@@ -1,0 +1,11 @@
+Classname: Cat
+Parent class: Command
+Subclasses: None
+
+Responsibilities:
+* Gets content of files, and prints them to the screen.
+
+Collaborators:
+* Directory
+* File
+* StringUtil

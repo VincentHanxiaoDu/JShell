@@ -1,0 +1,9 @@
+Classname: NodeTypeAreNotTheSameException
+Parent class: Exception
+Subclasses: None
+
+Responsibilities:
+* Thrown when two node types are different
+
+Collaborators:
+* None

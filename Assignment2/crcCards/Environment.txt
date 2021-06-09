@@ -1,0 +1,11 @@
+Classname: environment.Environment
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Keep track of environment variables for JShell
+  - List of command histories
+  - Directory stack
+
+Collaborators:
+* Directory

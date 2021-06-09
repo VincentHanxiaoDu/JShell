@@ -1,0 +1,17 @@
+What did I work on in the last three days?
+	- created Traverse class
+	- brainstormed how to best run the class
+	- set up skeleton code for iterator
+
+What do I plan to work in the next three days?
+	- implement the iterator 
+	- add -R function to ls 
+	- create method to traverse all nodes from root
+	- create method to traverse all nodes from specific directory
+
+Am I blocked on anything?
+	- Nothing
+
+
+
+

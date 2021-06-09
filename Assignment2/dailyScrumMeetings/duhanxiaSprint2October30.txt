@@ -1,0 +1,15 @@
+What did I work on in the last three days?
+  - Fixed bugs in parser
+  - Finished Cd
+  _ Finished Popd
+  _ Worked on Pushd
+
+What do I plan to work in the next three days?
+  - Finish Pushd
+  - Test Cd
+  - Test Popd
+  - Test PUshd
+
+
+Am I blocked on anything?
+  - Not blocked on anything at the moment

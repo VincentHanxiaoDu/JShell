@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+  - Getting started on the new commands.
+
+What do I plan to work in the next three days?
+  - Adding all the error classes.
+  - Work on the tree command.
+
+Am I blocked on anything?
+  - I'm not blocked on anything at the moment.

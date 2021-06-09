@@ -1,0 +1,11 @@
+Classname: File
+Parent class: Node
+Subclasses: None
+
+Responsibilities:
+* Holds the file name and its content
+
+Collaborators:
+* Directory
+* NodeAlreadyExistsException
+
